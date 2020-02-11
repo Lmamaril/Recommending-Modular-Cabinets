@@ -1,4 +1,4 @@
-**Recommending-Modular-Cabinets**
+<h1>**Recommending-Modular-Cabinets**</h1>
 
 Project for CS 5010
 Programming Design Paradigms
