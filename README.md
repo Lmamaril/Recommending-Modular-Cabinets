@@ -1,7 +1,7 @@
 <h1>Recommending-Modular-Cabinets</h1>
 
-Project for CS 5010
-Programming Design Paradigms
+**Project for CS 5010**
+_Programming Design Paradigms_
 
 Written in Java, this program's purpose was to provide furniture recommendations
 for a customer based on the customer's preferences and the furniture store's available inventory.  
