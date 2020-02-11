@@ -8,3 +8,5 @@ for a customer based on the customer's preferences and the furniture store's ava
 
 The link for the spec is below:
 https://course.ccs.neu.edu/cs5010f19-seattle/assignments/CS5010_Fall2019_Assignment2.pdf
+
+![UML](UML_FurnitureRecommender.jpg)
